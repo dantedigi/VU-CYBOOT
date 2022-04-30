@@ -2,7 +2,7 @@
 
 The files in this repository were used to configure the network depicted below.
 
-[Network Diagram](ELK-Stack-Project_1/Network_Diagrams/ELK_Diagram_1.drawio.png)
+[Network Diagram](https://github.com/dantedigi/VU-CYBOOT/blob/main/ELK-Stack-Project_1/Network_Diagrams/ELK_Diagram_1.drawio.png)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the yml and config file may be used to install only certain pieces of it, such as Filebeat.
 
