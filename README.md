@@ -84,8 +84,9 @@ This ELK server is configured to monitor the following machines:
 
 We have installed the following Beats on these machines:
 - Metricbeat
-![Metricbeat](Images/Screen Shot 2022-04-26 at 9.15.41 PM.png)
+![Metricbeat](https://github.com/dantedigi/VU-CYBOOT/blob/main/Images/Screen%20Shot%202022-04-26%20at%209.53.34%20PM.png)
 - Filebeat
+![Filebeat](https://github.com/dantedigi/VU-CYBOOT/blob/main/Images/Screen%20Shot%202022-04-26%20at%209.15.41%20PM.png)
 
 These Beats allow us to collect the following information from each machine:
 - **Filebeat** collects data about the file system.
