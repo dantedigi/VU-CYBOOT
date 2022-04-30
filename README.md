@@ -84,6 +84,7 @@ This ELK server is configured to monitor the following machines:
 
 We have installed the following Beats on these machines:
 - Metricbeat
+![Metricbeat](Images/Screen Shot 2022-04-26 at 9.15.41 PM.png)
 - Filebeat
 
 These Beats allow us to collect the following information from each machine:
